@@ -1,3 +1,3 @@
 # Projects
-In PROJECTS i have made some small programs to perform different activities.
-all my future programs related to projects will be posted here.
+In this section you will find all the intresting question related to python.
+You can also try these exciting questions by your own logic.
